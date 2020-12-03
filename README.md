@@ -1,6 +1,6 @@
 # cleaning_app_ui
 
-A new Flutter application.
+A Two Page UI design of a simple cleaning app in flutter.
 
 ## Getting Started
 
